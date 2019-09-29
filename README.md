@@ -1,2 +1,2 @@
-# Hariss-Corner-Detector-
-## Hariss Corner Detector own function 
+# Harris-Corner-Detector-
+## Harris Corner Detector own function 
